@@ -6,7 +6,7 @@ export const Header: React.FC = () => {
   // spaces
 
     <header id="header">
-        <li><a className="nav-links"></a><img id="header-img" src="http://localhost:3000/static/zapprotocollogo.png"  width = "250" height = "40" alt="Company Logo" /> 
+        <li><a className="nav-links"></a><img id="header-img" src="https://raw.githubusercontent.com/fruitbox12/aws-shadow-node-ui/main/src/components/Header/lightzaplogo.png"  width = "250" height = "40" alt="Company Logo" /> 
           </li>
       <nav id="nav-bar">
         <ul>
